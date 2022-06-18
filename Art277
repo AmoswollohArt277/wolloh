@@ -1,0 +1,187 @@
+<!doctype html>
+<HEAD>
+<STYLE>
+.MY DIV{
+BORDER:5PX OUTSET GREEN;
+BACKGROUND-COLOR:GREEN;
+TEXT-ALIGN:CENTER;
+</STYLE>
+</HEAD>
+<BODY>
+<DIV CLASS="MY DIV">
+<H1>THIS IS A HEADING IN A DIV ELEMENT</H1>
+<P>THIS IS SOME TEXT IN A DIV ELEMENT</P>
+</BODY>
+</HEAD><!doctype html>
+<html>
+    <head>
+        <title>table with form in html</title>
+    </head>
+    <body>
+        <h1>my best table with form in html and list</h1>
+        <table border="2">
+            <th>
+                <tr>
+                    <th>Name</th>
+                    <th>Salary</th>
+                    <th>Company</th>
+                    <th>wife</th>
+                    <th>Childrens</th>
+                    <th>School graduate from</th>
+                    <th>Major</th>
+                    <th>Place of living</th>
+                </tr>
+                <tr>
+                    <td>Amos Wolloh</td>
+                    <td>15,000</td>
+                    <td>Lonestar cell mtn</td>
+                    <td>10</td>
+                    <td>25</td>
+                    <td>Starz university</td>
+                    <td>IT Speacilist</td>
+                    <td>Logan toen</td>
+                </tr>
+                <tr>
+                    <td>James Browns</td>
+                    <td>10</td>
+                    <td>Orange</td>
+                    <td>12</td>
+                    <td>30</td>
+                    <td>Blue Crest university</td>
+                    <td>IT Speacilist</td>
+                    <td>New kru town</td>
+                </tr>
+            </th>
+        </table>
+
+        <h1>some items name</h1>
+        <ul>
+            <li>Chairs</li>
+            <li>Bench</li>
+            <li>Table</li>
+            <li>Doors</li>
+            <li>Fans</li>
+            <li>Windows</li>
+            <li>Desk</li>
+            <li>Houses</li>
+        </ul>
+        <ol>
+                <li>Chairs</li>
+                <li>Bench</li>
+                <li>Table</li>
+                <li>Doors</li>
+                <li>Fans</li>
+                <li>Windows</li>
+                <li>Desk</li>
+                <li>Houses</li>
+        </ol>
+        <h1>Student information in Forms</h1>
+        <fieldset>
+            <legend>Student information</legend>
+            <forms>
+                <legend>First name</legend>
+                <input type="text">
+                <legend>Last Name</legend>
+                <input type="text">
+                <legend>middlen Name</legend>
+                <input type="text">
+                <legend>Password</legend>
+                <input type="password">
+                <legend>Message</legend>
+                <textarea placeholder="How can Amos help you"></textarea>
+                <legend>Age</legend>
+                <input type="number" placeholder="Above 18">
+                <br><br>
+                <legend>Male</legend><br><br>
+                <input type="checkbox">
+                <legend>Female</legend>
+                <input type="checkbox">
+                <legend>Others</legend>
+                <input type="checkbox">
+                <br><br>
+                <label>Email</label>
+                <input type="placeholder=Example@gmail.com">
+                <button>submit</button><br><br>
+                <br><br>
+                <select>
+                    <option>Norway</option>
+                    <option>liberia</option>
+                    <option>guinea</option>
+                    <option>Sirrealone</option>
+                    <option>Malia</option>
+                </select>
+                <br><br>
+                <!--<label>Guinea</label>
+                    <input type="checkbox>"
+            </forms>
+        </fieldset>
+    </body>
+</html><!doctype html>
+<html>
+<head>
+<title>Html Table</title>
+</head>
+<body>
+<table border="1" bordercolor="red" bordercolor="yellow">
+<tr>
+<th>Name</th>
+<th>Salary</th>
+<th>company name</th>
+</tr>
+<tr>
+<td>Adolphus Sayee Tolo</td>
+<td>2,500</td>
+<td>tolo construction limited</td>
+</tr>
+<tr>
+<td>Amos wolloh</td>
+<td>1000</td>
+<td>lonestar cell</td>
+</tr>
+<tr>
+<td>Sarah sneh</td>
+<td>500</td>
+<td>orange</td>
+</tr>
+</th>
+</body>
+</html>
+<!doctype <!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Incoming IT Speacialist Amos Wolloh</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+    <script src="main.js"></script>
+</head>
+<body><img src="sankonwin.jpg"border="10" width="250">
+    <img src="samuel.jpg"border="10"width="330">
+<h1>Introducting myself and I am<b> extremely excited!!!!</b></h1>
+<p>my name is Amos Wolloh, I was born in Sinoe County green-ville city.
+I was born unto the union of Mr. and Mrs Wolloh, I am a Liberian
+I am a high school graduate of the Sinoe Multilateral High school
+2016-2017,I'm also a Bsc Student of the Starz University located in
+in Monrovia/Liberia, Montserrado Sinkor Airfield shortcut
+My Aspiration in life is to become an IT Speacialist</p>
+<h1>My Like and Dislike in Life!!!!</h1>
+<p>I like reading my note
+    I like practing on my laptop by creating website and coding
+    I like to be around my bests friends who and I are always 
+    learning more about internet, desiging websites and learning
+    more about computers and always praying for my family members
+    who are in and out of Liberia that<b> God almighty give them long
+    life and Prosperity for everyone of us to come!!!!</b>
+    I do liking smoking and Drinking or I do'nt even like to be around
+    bads friends in life because they alway give me bad advices in Life.
+    I know more about creating website, coding, and desiging website
+</p>
+<h1>Ways in contacting me!!!!</h1>
+<p>these are the fews ways in reaching me and to be business friend
+    contact me on whatapp Amoswolloh cell=0880538113
+    Facebook Amoswolloh Facebook
+    gmail=amoswolloh222@gmail.com 
+</p>
+</body>
+</html>
